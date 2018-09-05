@@ -12,3 +12,10 @@
 把照片从Media Bin中拖到下面的Timeline，它就会在右边的大面板中显示出来：
 
 ![drag-to-timeline](./images/drag-to-timeline.jpg)
+
+项目中的`camtasia-import-picture.cmproj`文件夹是一个完整的camtasia3项目，可以下载后在camtasia中打开看到效果。
+
+Resources
+---------
+
+项目中使用的图片来自于: <https://unsplash.com/photos/qEOV3icU_Y4>
